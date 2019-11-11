@@ -43,7 +43,7 @@ Build to `./dist`
 npm run build
 ```
 
-Browse to http://localhost:3000
+Browse to http://localhost:3030
 
 
 # Folder structure

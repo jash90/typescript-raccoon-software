@@ -8,7 +8,7 @@ var Config = /** @class */ (function () {
     Config.globFiles = function (location) {
         return lodash_1.union([], glob_1.sync(location));
     };
-    Config.port = 3000;
+    Config.port = 3030;
     Config.routes = './dist/routes/**/*.js';
     Config.models = './dist/models/**/*.js';
     Config.useMongo = false;

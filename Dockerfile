@@ -10,6 +10,6 @@ RUN npm run build
 
 ENV NODE_ENV docker
 
-EXPOSE 3000
+EXPOSE 3030
 
 CMD [ "npm", "run", "start" ]
