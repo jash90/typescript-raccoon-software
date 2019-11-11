@@ -1,2 +1,7 @@
 node_modules
+/dist
 dist
+*.pid
+.idea
+*.sublime-project
+*.sublime-workspace
